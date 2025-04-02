@@ -1,4 +1,5 @@
 PwC Power BI Job Simulation – Sales & Performance Dashboard
+
 📌 Overview
 This project is a Power BI dashboard created as part of the PwC Power BI Virtual Job Simulation. The dashboard provides insights into sales performance, customer demographics, and key business metrics to assist data-driven decision-making.
 
